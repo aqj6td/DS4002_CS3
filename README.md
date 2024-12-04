@@ -1,6 +1,7 @@
 # DS4002_CS3
 
 ## A DS Case Study by Jessica Li:
+![spam](https://github.com/user-attachments/assets/8e82e89c-3c7d-4e98-a602-7ac674553d62)
 
 This GitHub repository was put together by Jessica Li. It contains source data, code, and other helpful materials to analyze spam message data.
 
